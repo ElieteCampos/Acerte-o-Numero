@@ -1,2 +1,2 @@
-# Acerte-o-Numero (em construção)
-Projeto pequeno, usando o Html, Css e Javascript
+# Acerte-o-Numero
+Projeto pequeno, um joguinho simples sobre acertar os numeros. Nele utilizei o Html, customizei com Css, e Javascript para dar os comandos.
