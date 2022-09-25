@@ -12,14 +12,3 @@
 * CSS
 * Javascrpt
 
-~~~javascript
-Linguagem para dar os comandos.
-~~~
-
-~~~css
-Utilizada para fazer a estilização.
-~~~
-
-~~~html
-Usei para marcação.
-~~~
