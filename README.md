@@ -1,2 +1,25 @@
-# Acerte-o-Numero
-<p align="justify">Projeto pequeno, um joguinho simples sobre acertar os números. Nele utilizei o Html, estilizei com Css, e Javascript para dar os comandos.</p> 
+# :video_game:Acerte-o-Numero :joystick: :hammer:
+<h2>Projeto pequeno de adivinhar.</h2> 
+
+> ## Status: Finalizado
+
+## Descrição:
+
+<h5> Projeto de interação, onde o usuário tenta adivinhar o número que o próprio sistemas irá definir . Quando acertar o número, poderá jogar novamente.</h5>
+
+## Tecnologias utilizadas:
+* HTML
+* CSS
+* Javascrpt
+
+~~~javascript
+Linguagem para dar os comandos.
+~~~
+
+~~~css
+Utilizada para fazer a estilização.
+~~~
+
+~~~html
+Usei para marcação.
+~~~
